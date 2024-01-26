@@ -1,4 +1,4 @@
 evo==1.18.1
 plyfile==1.0.3
-torch-scatter==2.0.9
+torch-scatter==2.1.2
 yacs==0.1.8
